@@ -8,14 +8,16 @@ This portfolio showcases a selection of end-to-end projects that reflect real-wo
 
 ## 🔥 Featured Projects
 
-### 🏦 [G-SIB Financial Analysis – Bank of England Project](./G_SIB_Financal_Reports_Analysis.ipynb)
+### 🏦 [G-SIB Financial Analysis – Bank of England Project](./boe-gsibs-financial-analysis/G_SIB_Financal_Reports_Analysis.ipynb)
 
 - Employer-led capstone project (Bank of England x University of Cambridge)
 - Extracted insights from quarterly earnings reports & analyst Q&A transcripts
 - Used Document AI, Claude, GPT-4, FinBERT, BERTopic, FAISS, SQLite
 - ✅ Includes preprocessed DB: run the visualizations instantly!
 
-### ⚙️ [Anomaly Detection for Ship Engine Performance](https://open.substack.com/pub/prasanth2402/p/ship-engine-anomaly-detection)
+### ⚙️ [Anomaly Detection for Ship Engine Performance](./ship-engine-anomaly-detection/ship_engine_anomaly_detection.ipynb)
+
+[Substack blog post](https://open.substack.com/pub/prasanth2402/p/ship-engine-anomaly-detection)
 
 - Modeled anomalies in sensor readings from maritime engine data
 - Built a storytelling notebook + published results as a Substack article
