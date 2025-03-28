@@ -99,7 +99,8 @@ This project was developed as part of the Data Science Career Accelerator in col
     > Special thanks to the PRA RegTech & Data Innovation team for framing the challenge.
 
 ---
-## 📂 Preprocessed Data
+
+## 📂 Preprocessed Data
 
 This repository includes a fully preprocessed SQLite database (gsib_analysis_FINAL.db) stored in the /data folder. All transcript parsing, financial report extraction, and metric alignment have already been completed.
 > You do not need to re-run any data processing steps.
