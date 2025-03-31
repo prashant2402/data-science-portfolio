@@ -22,11 +22,11 @@ This portfolio showcases a selection of end-to-end projects that reflect real-wo
 - Modeled anomalies in sensor readings from maritime engine data
 - Built a storytelling notebook + published results as a Substack article
 
-### 🔎 Other Projects from the Cambridge DS Career Accelerator
+### 🎓 [Predicting Student Dropout Using XGBoost & Neural Networks](./predict-student-dropout/student_dropout_prediction.ipynb)
 
-- 📈 Time Series Forecasting
-- 🧠 NLP: Text Classification & Sentiment Modeling
-- 🧼 Data Cleaning Pipelines
-- 📊 Exploratory Data Analysis & Visual Storytelling
+- Built models to predict dropout risk in adult learners
+- Compared XGBoost and Deep Learning (Keras) pipelines
+- Engineered features from attendance, academic performance, and institutional data
+- ✅ AUC-ROC: 0.9863 (XGBoost); balanced accuracy: 0.9523
 
 ---
