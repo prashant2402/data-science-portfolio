@@ -43,4 +43,11 @@ This portfolio showcases a selection of end-to-end projects that reflect real-wo
 - Identified key pain points by location, sentiment, and emotion
 - ✅ Recommendations target maintenance, staff training, and app performance
 
+### 📚 [Time Series Forecasting – Book Sales (Nielsen)](./time-series-book-sales/book_sales_forecasting.ipynb)
+
+- Forecasted 32-week sales for 2 best-selling titles using SARIMA, XGBoost, LSTM
+- Achieved <2% MAPE with XGBoost on weekly data
+- Built hybrid models combining SARIMA + LSTM with weighted optimization
+- ✅ Recommendations support smarter inventory decisions for publishers
+
 ---
