@@ -30,3 +30,10 @@ This portfolio showcases a selection of end-to-end projects that reflect real-wo
 - ✅ AUC-ROC: 0.9863 (XGBoost); balanced accuracy: 0.9523
 
 ---
+
+### 🛍️ [Customer Segmentation with Clustering](./customer-segmentation/customer_segmentation_clustering.ipynb)
+
+- Unsupervised learning project (K-Means, Hierarchical Clustering)
+- Segmented customers based on CLV, purchase frequency, and recency
+- Identified Power Shoppers, Regular Customers, and Occasional Shoppers
+- ✅ Delivered targeted marketing strategy and lifecycle recommendations
