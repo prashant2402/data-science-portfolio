@@ -1,6 +1,6 @@
 # 👩‍💻 Data Science Portfolio – Prash
 
-Welcome to my data science portfolio! Over the past year, I've transitioned from a background in **DevOps / MLOps / Software Engineering** into the **Data Science and Machine Learning** space — building projects that combine deep technical implementation with clear business storytelling.
+Welcome to my data science portfolio! Over the past year, I've transitioned from a background in **MLOps / Software Engineering** into the **Data Science and Machine Learning** space — building projects that combine deep technical implementation with clear business storytelling.
 
 This portfolio showcases a selection of end-to-end projects that reflect real-world problem-solving, collaboration with industry partners, and my ability to bridge data with impact.
 
@@ -29,11 +29,18 @@ This portfolio showcases a selection of end-to-end projects that reflect real-wo
 - Engineered features from attendance, academic performance, and institutional data
 - ✅ AUC-ROC: 0.9863 (XGBoost); balanced accuracy: 0.9523
 
----
-
 ### 🛍️ [Customer Segmentation with Clustering](./customer-segmentation/customer_segmentation_clustering.ipynb)
 
 - Unsupervised learning project (K-Means, Hierarchical Clustering)
 - Segmented customers based on CLV, purchase frequency, and recency
 - Identified Power Shoppers, Regular Customers, and Occasional Shoppers
 - ✅ Delivered targeted marketing strategy and lifecycle recommendations
+
+### 🏋️ [PureGym Customer Reviews – NLP & Topic Modeling](./puregym-nlp-analysis/puregym_reviews_nlp_analysis.ipynb)
+
+- NLP analysis of 40k+ reviews from Google & Trustpilot
+- Used BERT, BERTopic, Gensim LDA, Phi-3.5, and custom language preprocessing
+- Identified key pain points by location, sentiment, and emotion
+- ✅ Recommendations target maintenance, staff training, and app performance
+
+---
